@@ -75,7 +75,7 @@ const FooterSection = () => {
           border at the bottom for a clean, modern look. */}
               <input
                 type="email"
-                placeholder="Enter your email"
+                placeholder="parthtiwari2599@gmail.com"
                 className="w-full placeholder:font-sans placeholder:text-[#999999]"
               />
               <img src="/images/arrow.svg" alt="arrow" />
